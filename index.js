@@ -1,7 +1,7 @@
-function printNothing() {
+function printNothing2() {
     console.log("nothing");
 }
 
 module.exports = {
-    printNothing
+    printNothing2
 }
